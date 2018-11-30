@@ -1,5 +1,11 @@
 package com.delta.my.learn;
 
+/**
+ * Test Class
+ * 
+ * @author xuekao.hu
+ *
+ */
 public class TestCode {
 	static {
 		System.out.println("1111");
