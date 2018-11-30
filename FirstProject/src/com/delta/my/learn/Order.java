@@ -5,6 +5,8 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
+ * 线程的调度顺序
+ * 
  * A --> B --> C
  * A打印二次
  * B打印四次
